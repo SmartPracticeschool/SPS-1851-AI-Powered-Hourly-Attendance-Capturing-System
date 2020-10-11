@@ -20,3 +20,6 @@ The proposed solution/application shall capture hourly attendance without any ma
 
 ## Proposed Technical Architecture
 <img src="Project-Architecture.png" alt="Architecture">
+
+## Demo Link
+<a href="https://drive.google.com/file/d/1DWWKDFjUhfPQ9lJsUr9rwjhMma9QkaAR/view?usp=sharing">Demo</a>
