@@ -18,5 +18,5 @@ The proposed solution/application shall capture hourly attendance without any ma
 <li>Create a web-based dashboard to visualize the attendance
 </ul>
 
-## Proposed Technica Architecture
+## Proposed Technical Architecture
 <img src="Project-Architecture.png" alt="Architecture">
